@@ -1,18 +1,20 @@
+### :computer: What you learn
+
 <h1 align="center">
     <img src="https://i.ibb.co/88xQxYM/microservices.png">
 </h1>
 
 ### :scroll: What you learn
 ```bash
-[X] Architect large, scalable apps using a collection of microservices 
+:ballot_box_with_check: Architect large, scalable apps using a collection of microservices 
 
-[X] Solve concurrency issues in a distributed systems environment
+ - [X] Solve concurrency issues in a distributed systems environment
 
-[X] Build a Server-Side Rendered React App to render data from your microservices
+ - [X] Build a Server-Side Rendered React App to render data from your microservices
 
-[X] Share reusable code between multiple Express servers using custom NPM packages
+ - [X] Share reusable code between multiple Express servers using custom NPM packages
 
-[X] Communicate data between services using a lightning-fast event bus
+ - [X] Communicate data between services using a lightning-fast event bus
 
 [X] Deploy a multi-service app to the cloud with Docker and Kubernetes
 
