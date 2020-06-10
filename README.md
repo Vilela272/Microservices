@@ -4,7 +4,7 @@
     <img src="https://i.ibb.co/88xQxYM/microservices.png">
 </h1>
 
-### :scroll: Microservices with Node JS and React
+### :scroll: About
 ```bash
 # Architect large, scalable apps using a collection of microservices 
 
