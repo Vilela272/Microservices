@@ -1,35 +1,31 @@
-### :computer: What you learn
+### :computer: Microservices with Node JS and React - Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes
 
 <h1 align="center">
     <img src="https://i.ibb.co/88xQxYM/microservices.png">
 </h1>
 
-### :scroll: What you learn
+### :scroll: Microservices with Node JS and React
 ```bash
-:ballot_box_with_check: Architect large, scalable apps using a collection of microservices 
+# Architect large, scalable apps using a collection of microservices 
 
- - [X] Solve concurrency issues in a distributed systems environment
+# Solve concurrency issues in a distributed systems environment
 
- - [X] Build a Server-Side Rendered React App to render data from your microservices
+# Build a Server-Side Rendered React App to render data from your microservices
 
- - [X] Share reusable code between multiple Express servers using custom NPM packages
+# Share reusable code between multiple Express servers using custom NPM packages
 
- - [X] Communicate data between services using a lightning-fast event bus
+# Communicate data between services using a lightning-fast event bus
 
-[X] Deploy a multi-service app to the cloud with Docker and Kubernetes
+# Deploy a multi-service app to the cloud with Docker and Kubernetes
 
-[X] Leverage your Javascript skills to build a complex web app
+# Leverage your Javascript skills to build a complex web app
 
-[X] Understand how enterprise companies design their infrastructure
+# Understand how enterprise companies design their infrastructure
 
-[X] Write comprehensive tests to ensure each service works as designed
+# Write comprehensive tests to ensure each service works as designed
 
-[X] Write nothing but production-level code. No cutting corners!
-```
----
+# Write nothing but production-level code. No cutting corners!
 
-### :scroll: About
-```bash
 # Event-Based Architecture? Covered! Server side rendering with React? Yep.  Scalable, production-ready code? Its here!
 
 # Microservices are the number one solution for building and scaling out apps that are intended to grow.  Just one little issue: there are few resources online that delve into the most complex and nasty issues around them!  I built this course to fix that.  This course tackles every major issues around microservices head on. From challenges with data replication to confusing unordered event streams, every major challenge of building microservices is covered. 
@@ -56,15 +52,15 @@
 ```bash
 # By the time you complete this course, you will be able to:
 
-[X] Architect a multi-service application
+# Architect a multi-service application
 
-[X] Determine whether your app is a good fit for a microservices approach
+# Determine whether your app is a good fit for a microservices approach
 
-[X] Understand and solve the challenges in async, event-based communication between services
+# Understand and solve the challenges in async, event-based communication between services
 
-[X] Use Docker and Kubernetes to deploy a multi-service app to any cloud provider
+# Use Docker and Kubernetes to deploy a multi-service app to any cloud provider
 
-[X] Organize and enhance the reusability of code in large projects
+# Organize and enhance the reusability of code in large projects
 ```
 ---
 
@@ -72,25 +68,25 @@
 ```bash
 # An absolute incredible number of topics are covered in this course.  Here is a partial list of what you'll do:
 
-[X] Practice patterns to create scalable microservices for a variety of app domains
+# Practice patterns to create scalable microservices for a variety of app doma
 
-[X] Build a Server-Side-Rendered React app using Hooks and Next JS
- 
-[X] Write a custom implementation of an event bus
+# Build a Server-Side-Rendered React app using Hooks and Next 
 
-[X] Optionally, run a development environment through a cloud provider
- 
-[X] Guarantee consistently structured responses from your different API
+# Write a custom implementation of an event 
 
-[X] See best practices in communication between different services
+# Optionally, run a development environment through a cloud provid
 
-[X] Configure and scale your services using Kubernetes Deployments
+# Guarantee consistently structured responses from your different 
 
-[X] Document and enforce structure constraints on events shared across microservices
+# See best practices in communication between different servi
 
-[X] Limit access to your APIs using JWT-based authentication
+# Configure and scale your services using Kubernetes Deployme
 
-[X] And much more!
+# Document and enforce structure constraints on events shared across microservices
+
+# Limit access to your APIs using JWT-based authenticat
+
+# And much more!
 
 # This is the course I wish I had when I was learning microservices. A course that focuses on the hardest parts, gives clear explanations, and discusses the pros and cons of different design options. Sign up today and join me in mastering microservices!
 ```
